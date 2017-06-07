@@ -7,7 +7,7 @@ title: 王远博客
 subtitle: 王远博客
 description: 王远博客
 author: wangyuan
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+## 模板
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
